@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 group-title="Portugal" tvg-logo="RTP1.png" tvg-name="RTP1", RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-logo="RTP2.png" tvg-name="RTP2", RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="SIC" tvg-logo="SIC.png"  group-title="Portugal", SIC
+http://213.13.26.7:1936/live/_definst_/sic/playlist.m3u8
+
+#EXTINF:0 tvg-id="TVI" tvg-logo="TVI.png" group-title="Portugal", TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:0 tvg-id="sicnoticias.pt" tvg-name="sicnoticias" tvg-logo="SICNOTICIAS.png" group-title="Portugal", SIC Noticias
+rtmp://213.13.26.12/live playpath=sicnoticias swfUrl=http://js.sapo.pt/Projects/Video/140708R1/flash/videojs.swf  pageUrl=http://vi.deos.sapo.pt/sicnoticias live=1 timeout=10
+
+#EXTINF:0 tvg-id="rtpn.pt" tvg-logo="RTPN.png" group-title="Portugal",RTP Informação
+http://noscdn1.connectedviews.com:1935/live/smil:globo.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="TVI24" group-title="Portugal" tvg-logo="TVI24.png", TVI 24
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w1284637725_b814000.m3u8
+
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal" tvg-logo="RTPME.png" tvg-name="RTPME", RTP Memória
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="EconomicaTV.pt" group-title="Portugal" tvg-logo="ECONOMICO.png" tvg-name="EconomicaTV.pt", Económico TV
+http://213.13.26.11:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Portugal"  tvg-logo="EURONEWS.png", Euronews
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal" tvg-logo="RTPME.png" tvg-name="RTPME", RTP Memória
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal" tvg-logo="RTPAC.png" tvg-name="RTP AÇORES", RTP Açores
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTP Madeira" group-title="Portugal" tvg-logo="RTPM.png" tvg-name="RTPMA", RTP Madeira
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal" tvg-logo="RTPAF.png" tvg-name="RTAfrica", RTP Africa
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Portugal" tvg-logo="RTPI.png" tvg-name="RTPi", RTP Internacional
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-id="EconomicaTV.pt" group-title="Portugal" tvg-logo="ECONOMICO.png" tvg-name="EconomicaTV.pt", Económico TV
+http://213.13.26.11:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Portugal" tvg-logo="AR.png" tvg-name="artv", AR TV
+rtsp://www.canal.parlamento.pt/Live 
+
+#EXTINF:0  tvg-id="sporttv1.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV1.png" tvg-name"sporttv1.pt", SPORT TV 1
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+
+#EXTINF:0  tvg-id="sporttv2.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV2.png" tvg-name="sporttv2.pt", SPORT TV 2
+
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV3.png" tvg-name="sporttv3.pt", SPORT TV 3 
+
+#EXTINF:0 tvg-id="SPORT.TVLIVE.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV4.png" tvg-name="sporttv4.pt", SPORT TV 4 
+
+#EXTINF:0 tvg-id="SportTVGolfe.pt" group-title="Desporto Nacional" tvg-logo="SPORTTV5.png" tvg-name="sporttv5.pt", SPORT TV 5
+ 
+#EXTINF:0 tvg-id="SportTVAmericas.pt" group-title="Desporto Nacional" tvg-logo="SPORTTVAM.png" tvg-name="sporttv5.pt", SPORT TV Américas
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Desporto Nacional" tvg-logo="SPORTING.png" tvg-name="SPORTINGTV", SportingTV
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Desporto Nacional" tvg-logo="BENFICA.png" tvg-name="BENFICATV", Benfica TV 1
+
+#EXTINF:0 tvg-id="BenficaTV2.pt" group-title="Desporto Nacional" tvg-logo="BENFICA2.png" tvg-name="BenficaTV2", Benfica TV 2
+
+#EXTINF:0 tvg-id="REALTV.pt" group-title="Desporto Internacional" tvg-logo="REALMADRID.png" tvg-name="REALMADRID", Real Madrid TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="BARCA.pt" group-title="Desporto Internacional" tvg-logo="BARCA.png" tvg-name="BARCATV", Barça TV 
+http://portal.rapidiptv.com:8080/live/test1/italie/5466.m3u8
+
+#EXTINF:0  group-title="Desporto Internacional" tvg-logo="TELEKANAL.png" tvg-name="TELEKANAL", Telekanal Futbol
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:0 group-title="Desporto Internacional" tvg-logo="VIASATSPORT.png" tvg-name="viasatsport", Viasat Sport Baltic
+http://88.118.131.29/vsb.m3u8
+
+#EXTINF:0  group-title="Filmes e Séries" tvg-id="tvc1.pt"  tvg-logo="TVCINE1.png", TV Cine 1
+
+#EXTINF:0  group-title="Filmes e Séries" tvg-id="tvc2.pt"  tvg-logo="TVCINE2.png", TV Cine 2 
+
+#EXTINF:0  group-title="Filmes e Séries" tvg-id="tvc3.pt"  tvg-logo="TVCINE3.png", TV Cine 3 
+
+#EXTINF:0  group-title="Filmes e Séries" tvg-id="tvc4.pt"  tvg-logo="TVCINE4.png", TV Cine 4
+
+
+
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA1.png", Rádio Antena 1
+mms://195.245.168.21/antena1
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA2.png", Rádio Antena 2
+mms://195.245.168.21/antena2
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA3.png", Rádio Antena3
+mms://195.245.168.21/antena3
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="COMERCIAL.png",Rádio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RFM.png",Rádio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="M80.png",Rádio M80
+rtmp://195.23.102.208/m80lc playpath=m80lc.sdp 
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ORBITAL.png",Rádio Orbital
+http://stream.radio.com.pt/ROLI-ENC-401
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="CIDADE.png", Rádio Cidade FM
+mms://195.23.102.196/cidadecbr96
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RENASCENCA.png", Rádio Renascença
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="MEGAFM.png", Rádio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="TSF.png", Rádio TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="VODAFONE.png", Rádio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RADAR.png", Rádio Radar
+http://stream.radio.com.pt:8497/stream
+ 
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="AMALIA.png", Rádio Amália
+http://stream.radio.com.pt:9496/stream
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="SMOOTH.png", Rádio Smooth FM
+rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp 
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="POPULARFM.png", Rádio Popular FM
+http://195.8.58.150:32281/
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RCSINTRA.png", Rádio Clube de Sintra
+mms://stream.radio.com.pt/ROLI-ENC-445
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="NOVAERA.png", Rádio Nova Era
+mms://stream.radio.com.pt/ROLI-ENC-478
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="OXIGENIO.png", Rádio Oxigénio
+mms://stream.radio.com.pt/ROLI-ENC-498
+ 
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="MARGINAL.png", Rádio Marginal
+mms://stream.radio.com.pt/ROLI-ENC-499
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="LAMEGO.png", Rádio Clube Lamego
+rtmp://aacplus.stream10.net:1935/sfera playpath=7050 swfUrl=http://www.rclamego.pt/player/aacplayer.swf pageUrl=http://www.rclamego.pt/player/aacplayer.swf
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="DOURONACIONAL.png", Rádio Douro Nacional
+http://94.23.76.235:9996/;
+
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="EMIGRANTE.png", Rádio Clube Emigrante
+http://198.24.186.218:8172/;?1425436566045.mp3

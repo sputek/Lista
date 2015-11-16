@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:0,vevo 3
-http://tvdasogra.com:8880/live/greg/greg/468.ts
+http://tvdasogra.com:8880/live/greg/greg/468.m3u8
 #EXTINF:0,vevo 2
-http://tvdasogra.com:8880/live/greg/greg/467.ts
+http://tvdasogra.com:8880/live/greg/greg/467.m3u8
 #EXTINF:0,vevo 1
-http://tvdasogra.com:8880/live/greg/greg/466.ts
+http://tvdasogra.com:8880/live/greg/greg/466.m3u8
 #EXTINF:0,TVseries
-http://tvdasogra.com:8880/live/greg/greg/469.ts
+http://tvdasogra.com:8880/live/greg/greg/469.m3u8
 #EXTINF:0,TVI 24
-http://tvdasogra.com:8880/live/greg/greg/214.ts
+http://tvdasogra.com:8880/live/greg/greg/214.m3u8
 #EXTINF:0,tvi +
-http://tvdasogra.com:8880/live/greg/greg/456.ts
+http://tvdasogra.com:8880/live/greg/greg/456.m3u8
 #EXTINF:0,TVI
-http://tvdasogra.com:8880/live/greg/greg/213.ts
+http://tvdasogra.com:8880/live/greg/greg/213.m3u8
 #EXTINF:0,TVCINE 4
-http://tvdasogra.com:8880/live/greg/greg/265.ts
+http://tvdasogra.com:8880/live/greg/greg/265.m3u8
 #EXTINF:0,TVCINE 3
-http://tvdasogra.com:8880/live/greg/greg/264.ts
+http://tvdasogra.com:8880/live/greg/greg/264.m3u8
 #EXTINF:0,TVCINE 2
-http://tvdasogra.com:8880/live/greg/greg/263.ts
+http://tvdasogra.com:8880/live/greg/greg/263.m3u8
 #EXTINF:0,TVCINE 1
-http://tvdasogra.com:8880/live/greg/greg/262.ts
+http://tvdasogra.com:8880/live/greg/greg/262.m3u8
 #EXTINF:0,TPA
-http://tvdasogra.com:8880/live/greg/greg/459.ts
+http://tvdasogra.com:8880/live/greg/greg/459.m3u8
 #EXTINF:0,sportv americas
-http://tvdasogra.com:8880/live/greg/greg/458.ts
+http://tvdasogra.com:8880/live/greg/greg/458.m3u8
 #EXTINF:0,sportv 5
-http://tvdasogra.com:8880/live/greg/greg/258.ts
+http://tvdasogra.com:8880/live/greg/greg/258.m3u8
 #EXTINF:0,sportv 4
-http://tvdasogra.com:8880/live/greg/greg/257.ts
+http://tvdasogra.com:8880/live/greg/greg/257.m3u8
 #EXTINF:0,sportv 3
-http://tvdasogra.com:8880/live/greg/greg/256.ts
+http://tvdasogra.com:8880/live/greg/greg/256.m3u8
 #EXTINF:0,sportv 2 HD
-http://tvdasogra.com:8880/live/greg/greg/255.ts
+http://tvdasogra.com:8880/live/greg/greg/255.m3u8
 #EXTINF:0,sportv 1 HD
 http://tvdasogra.com:8880/live/greg/greg/453.ts
 #EXTINF:0,Sporting TV
